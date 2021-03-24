@@ -14,6 +14,23 @@ This space contains all the material related to the Open Science course of the [
 ### Material
 
 1. [24 March 2021] Introduction to Open Science
+   * Introduction to the course: [slide](https://docs.google.com/presentation/d/1Shuca-EDhPs5K5f9iVNd-rR_PQLPhBPkWp4nghTK2JI/edit?usp=sharing)
+   * Theoretical part: [slide](https://docs.google.com/presentation/d/1ulfsEc4GIUq9g9VV56tdQWawLgGcw0OJk3Ww71pEu00/edit?usp=sharing)
+   * Practical part (project presentation): [slide](https://docs.google.com/presentation/d/18K2i4kCszGnXIkMf4xtaXw5ObEL4WerSX2Sja0upRzY/edit?usp=sharing)
+   * Bibliography
+     * Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., & Whitney, K. (2019). Open Science Isn’t Always Open to All Scientists. American Scientist, 107(2), 78. https://doi.org/10.1511/2019.107.2.78
+     * Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), Opening Science (pp. 17–47). Springer International Publishing. https://doi.org/10.1007/978-3-319-00026-8_2
+     * French Steering Committee for Open Science. (2020). Comments made by France on the First draft of the UNESCO Recommendation on Open Science. Ouvrir La Science. https://www.ouvrirlascience.fr/wp-content/uploads/2021/02/Comments-by-France-on-UNESCO-first-draft-reco-Open-Science.pdf
+     * Heibi, I., Peroni, S., & Shotton, D. (2019). Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations. Scientometrics, 121(2), 1213–1228. https://doi.org/10.1007/s11192-019-03217-6
+     * Hendricks, G., Tkaczyk, D., Lin, J., & Feeney, P. (2020). Crossref: The sustainable source of community-owned scholarly metadata. Quantitative Science Studies, 1(1), 414–427. https://doi.org/10.1162/qss_a_00022
+     * Imming, M., & Tennant, J. (2018). Sticker open science: Just science done right. https://doi.org/10.5281/ZENODO.1285575
+     * International DOI Foundation. (2019). DOI® Handbook. https://doi.org/10.1000/182
+     * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
+     * Peroni, S. (2021). Citations to invalid DOI-identified entities obtained from processing DOI-to-DOI citations to add in COCI (1.0). Zenodo. https://doi.org/10.5281/ZENODO.4625300
+     * Peroni, S., & Shotton, D. (2018). Open Citation: Definition. Figshare. https://doi.org/10.6084/m9.figshare.6683855
+     * Reproducibility. (2021). In English Wikipedia. https://en.wikipedia.org/wiki/Reproducibility
+     * UNESCO. (2020). First draft of the UNESCO Recommendation on Open Science (Programme and Meeting Document SC-PCB-SPP/2020/OS/R1; p. 16). https://unesdoc.unesco.org/ark:/48223/pf0000374837
+     * Woelfle, M., Olliaro, P., & Todd, M. H. (2011). Open science is a research accelerator. Nature Chemistry, 3(10), 745–748. https://doi.org/10.1038/nchem.1149
    <hr></hr>
 
 2. [31 March 2021] Reproducibility
