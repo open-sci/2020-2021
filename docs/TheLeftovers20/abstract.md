@@ -5,7 +5,7 @@ The purpose of this research is to find the publishers responsible for the missi
 In order to find the invalid citations, we use an already generated CSV file, containing the DOIs of invalid citations and their correct form, which is available online. These DOIs along with the COCI REST API can lead us to the responsible and referenced publishers.
 
 <b>Findings</b><br>
-We found for each individual published 1) the number of incorrect given citations metadata sent, and 2) the number of invalid citations received. We also extracted the total number of invalid citations that have since been corrected.
+We found for each individual publisher 1) the number of incorrect given citations metadata sent, and 2) the number of invalid citations received. We also extracted the total number of invalid citations that have since been corrected.
 
 <b>Originality/value</b><br>
 The results of this research may point us to publishers who generally send out incorrect citation metadata and, inversely, those who generally receive invalid citations. These findings can first of all raise awareness of the accuracy of certain publishing houses in managing their metadata (or lack thereof). Moreover, finding these trends and showcasing the labor of the corrections may lead to increasingly valid citations if the proper measures are taken.
