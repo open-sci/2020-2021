@@ -169,7 +169,7 @@ This space contains all the material related to the Open Science course of the [
      * Wang, K., Shen, Z., Huang, C., Wu, C.-H., Dong, Y., & Kanakia, A. (2020). Microsoft Academic Graph: When experts are not enough. Quantitative Science Studies, 1(1), 396–413. https://doi.org/10.1162/qss_a_00021
    <hr></hr>
 
-9.  [28 April 2021] Open Infrastructures
+9. [28 April 2021] Open Infrastructures
    * Theoretical part: [slide](https://docs.google.com/presentation/d/1Dh2Uv7g0DydXabvS6FP2QOYx1I1s7TsvmXsfPVRXXgc/edit?usp=sharing)
    * Practical part (Presentation of the project): [slide](https://docs.google.com/presentation/d/1USObdYTaujrTikkRtqZlJ8zXh3C91dBezCxdTuskvi4/edit?usp=sharing)
    * Bibliography:
