@@ -194,7 +194,7 @@ This space contains all the material related to the Open Science course of the [
       * 14:15-14:30 | break
       * 14:30-15:15 | project presentation by The Grasshoppers
       * 15:15-15:45 | questionnaire about the Open Science course (only students)
-   * Organisation 
+    * Organisation 
       * Each group has its own presentation slot (45 minutes) organised as follows:
          * 5 minutes to set up the presentation
          * 20 minutes for presenting the project
