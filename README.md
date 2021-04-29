@@ -186,7 +186,21 @@ This space contains all the material related to the Open Science course of the [
      * Teperek, M., & Dunning, A. (2020, August 18). Why figshare? Choosing a new technical infrastructure for 4TU.ResearchData [Blog]. Open Working. https://openworking.wordpress.com/2020/08/18/why-figshare-choosing-a-new-technical-infrastructure-for-4tu-researchdata/
    <hr></hr>
 
-11. [5 May 2021] Final workshop
+10. [5 May 2021] Final workshop
+    * Programme
+      * 13:00-13:15 | welcoming and instructions
+      * 13:15-13:30 | presentation of the invited experts
+      * 13:30-14:15 | project presentation by The Leftovers 2.0
+      * 14:15-14:30 | break
+      * 14:30-15:15 | project presentation by The Grasshoppers
+      * 15:15-15:45 | questionnaire about the Open Science course (only students)
+   * Organisation 
+      * Each group has its own presentation slot (45 minutes) organised as follows:
+         * 5 minutes to set up the presentation
+         * 20 minutes for presenting the project
+         * 20 minutes for Q&A (invited experts + audience)
+      * Each question is mediated by the professor, who decide the member of the group who has to answer it
+
 
 ### Schedule
 
