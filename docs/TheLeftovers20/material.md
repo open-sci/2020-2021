@@ -68,4 +68,4 @@ Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. 
 
 
 ### Slides supporting the presentation
-Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021, May). Investigating missing citations in COCI and publishers involved : PDF Presentation (Version First). Zenodo. http://doi.org/10.5281/zenodo.4738621
+Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021, May). Investigating missing citations in COCI and publishers involved : PDF Presentation (Version Second). Zenodo. http://doi.org/10.5281/zenodo.4738716
