@@ -52,7 +52,7 @@ Boente, Ricarda, Massari, Arcangelo, Santini, Cristian, & Tural, Deniz. (2021). 
 Boente, Ricarda, Massari, Arcangelo, Santini, Cristian, & Tural, Deniz. (2021, May 3). Cleaning different types of DOI errors found in cited references on Crossref using automated methods (Version 1). Zenodo. http://doi.org/10.5281/zenodo.4734513
 
 ### Slides supporting the presentation
-
+Boente, Ricarda, Massari, Arcangelo, Santini, Cristian, & Tural, Deniz. (2021, May). Presentation of "Cleaning different types of DOI errors found in cited references on Crossref using automated methods" (Version 1). Zenodo. http://doi.org/10.5281/zenodo.4738553
 
 
 
