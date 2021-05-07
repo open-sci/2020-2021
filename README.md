@@ -9,7 +9,9 @@ This space contains all the material related to the Open Science course of the [
   - [Academic year 2020/2021](#academic-year-20202021)
     - [Table of content](#table-of-content)
     - [Material](#material)
+    - [Extras](#extras)
     - [Schedule](#schedule)
+    - [Exams](#exams)
 
 ### Material
 
@@ -202,6 +204,15 @@ This space contains all the material related to the Open Science course of the [
       * Each question is mediated by the professor, who decide the member of the group who has to answer it
 
 
+### Extras
+
+Video presentations about Open Science stuff:
+* Tennant, J. (2018, May 23). Open Science is just good science. https://www.youtube.com/watch?v=UEEcwRUgQu8
+* Suber, P. (2021, April 14). Let’s talk about...Open Science Infrastructure with Peter Suber (A. Morka, Interviewer) [Youtube]. https://www.youtube.com/watch?v=GwSoFKFCjic
+* Thaney, K. (2021, April 23). Let’s talk about... Open Science Infrastructure with Kaitlin Thaney (A. Morka, Interviewer) [Youtube]. https://www.youtube.com/watch?v=kFk2hbtwmqU
+
+
+
 ### Schedule
 
 <table>
@@ -217,6 +228,11 @@ This space contains all the material related to the Open Science course of the [
     <tr><td>5 May 2021</td><td>13:00-16:00</td><td>Final workshop</td></tr>
 </table>
 
+
+### Exams
+
+* 7 June 2021, 9:30-11:00
+* 5 July 2021, 9:30-11:00
 
 
 
