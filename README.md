@@ -192,9 +192,9 @@ This space contains all the material related to the Open Science course of the [
     * Programme
       * 13:00-13:15 | welcoming and instructions
       * 13:15-13:30 | presentation of the invited experts
-      * 13:30-14:15 | project presentation by The Leftovers 2.0
+      * 13:30-14:15 | [project presentation by The Leftovers 2.0](https://github.com/open-sci/2020-2021/blob/master/docs/TheLeftovers20/material.md)
       * 14:15-14:30 | break
-      * 14:30-15:15 | project presentation by The Grasshoppers
+      * 14:30-15:15 | [project presentation by The Grasshoppers](https://github.com/open-sci/2020-2021/blob/master/docs/Grasshoppers/material.md)
       * 15:15-15:45 | questionnaire about the Open Science course (only students)
     * Organisation 
       * Each group has its own presentation slot (45 minutes) organised as follows:
