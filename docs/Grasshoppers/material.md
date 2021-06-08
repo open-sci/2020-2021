@@ -50,7 +50,7 @@ Massari, A., Santini, C., & Boente, R. (2021). open-sci/2020-2021-grasshoppers-c
 Boente, R., Massari, A., Santini, C., & Tural, D. (2021). Classes of errors in DOI names: output dataset (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4892551
 
 ### Article presenting the research
-Boente, R., Massari, A., Santini, C., & Tural, D. (2021, May 3). Cleaning different types of DOI errors found in cited references on Crossref using automated methods (Version 1). Zenodo. http://doi.org/10.5281/zenodo.4734513
+Boente, R., Massari, A., Santini, C., & Tural, D. (2021, June 8). Cleaning different types of DOI errors found in cited references on Crossref using automated methods (Version 2). Zenodo. http://doi.org/10.5281/zenodo.4914003
 
 ### Slides supporting the presentation
 Boente, R., Massari, A., Santini, C., & Tural, D. (2021, May). Presentation of "Cleaning different types of DOI errors found in cited references on Crossref using automated methods" (Version 1). Zenodo. http://doi.org/10.5281/zenodo.4738553
