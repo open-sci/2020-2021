@@ -36,7 +36,7 @@ Tural, D., Boente, R., Santini, C., & Massari, A. (2021, April 27). Response let
 Boente, R., Massari, A., Santini, C., & Tural, D. (2021). Protocol: Investigating DOIs classes of errors. protocols.io.
 https://dx.doi.org/10.17504/protocols.io.buuknwuw
 
-Reviews of the [Investigating DOIs' classes of errors](dx.doi.org/10.17504/protocols.io.bt65nrg6):
+Reviews of the [Investigating DOIs' classes of errors](https://dx.doi.org/10.17504/protocols.io.bt65nrg6):
 * Cioffi, A. (2021). Review of: "Investigating DOIs' classes of errors". Qeios. https://doi.org/10.32388/1PV0Y2
 * Moretti, A. (2021). Review of: "Investigating DOIs' Classes of Errors". Qeios. https://doi.org/10.32388/RWNSQC
 
