@@ -60,7 +60,7 @@ Sara Coppini, Arianna Moretti, Alessia Cioffi, Nooshin Shahidzadeh Asadi, & Silv
 
 
 ### The data gathered while running the methodology
-Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021). Missing Citations in COCI: Publishers Analytics Result (Version First) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4735639
+Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021). Missing Citations in COCI: Publishers Analytics Result (Version First) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4735638 (http://doi.org/10.5281/zenodo.5018586 for the Second - and final - version)
 
 
 ### Article presenting the research
