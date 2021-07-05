@@ -56,7 +56,7 @@ Authors' response to the reviews:
 
 
 ### Software developed
-Sara Coppini, Arianna Moretti, Alessia Cioffi, Nooshin Shahidzadeh Asadi, & Silvio Peroni. (2021, May 3). open-sci/2020-2021-the-leftovers-20-code: Investigating Missing Citations in COCI (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4735621
+Sara Coppini, Arianna Moretti, Alessia Cioffi, Nooshin Shahidzadeh Asadi, & Silvio Peroni. (2021, May 3). open-sci/2020-2021-the-leftovers-20-code: Investigating Missing Citations in COCI (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4735621. New final version of the software: http://doi.org/10.5281/zenodo.5070140.
 
 
 ### The data gathered while running the methodology
