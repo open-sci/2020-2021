@@ -33,7 +33,7 @@
 ## Material
 
 ### Data Management Plan
-Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021). Investigating Missing Citations in COCI (Version 3). Zenodo. https://doi.org/10.5281/zenodo.4726095
+Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021). Investigating Missing Citations in COCI (Version 3). Zenodo. https://doi.org/10.5281/zenodo.4726095. Final version of the DMP: https://doi.org/10.5281/zenodo.4671486
 
 Reviews of the [Cioffi, Alessia, Coppini, Sara, Moretti, Arianna, & Shahidzadeh Asadi, Nooshin. (2021). Investigating Missing Citations in COCI (Version 2). Zenodo.](https://doi.org/10.5281/zenodo.4704464):
 * Ricarda Boente. (2021). Review of: "DMP Investigating Missing Citations in COCI (zenodo.4671487)". Qeios. doi:10.32388/T0UF3H.
