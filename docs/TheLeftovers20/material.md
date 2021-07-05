@@ -45,7 +45,7 @@ Authors' response to the reviews:
 
 ### Protocol introducing the methodology
 Sara Coppini, Nooshin Shahidzadeh, Alessia Cioffi, Arianna Moretti 2021. Investigating Invalid DOIs in COCI - Protocol. protocols.io
-https://dx.doi.org/10.17504/protocols.io.buqhnvt6
+https://dx.doi.org/10.17504/protocols.io.buqhnvt6. New final version of the protocol: dx.doi.org/10.17504/protocols.io.bv9jn94n.
 
 Reviews of the [Nooshin Shahidzadeh, Alessia Cioffi, Arianna Moretti, Sara Coppini 2021. Investigating Invalid DOIs in COCI. protocols.io](https://dx.doi.org/10.17504/protocols.io.bt5xnq7n):
 * Arcangelo Massari. (2021). Review of: "Investigating Invalid DOIs in COCI". Qeios. doi:10.32388/X2DX81.
