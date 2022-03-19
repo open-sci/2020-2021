@@ -16,9 +16,9 @@ This space contains all the material related to the Open Science course of the [
 ### Material
 
 1. [24 March 2021] Introduction to Open Science
-   * Introduction to the course: [slide](https://open-sci.github.io/2020-2021/slides/00.pdf
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/01.pdf
-   * Practical part (Project Presentation): [slide](https://open-sci.github.io/2020-2021/slides/01H.pdf
+   * Introduction to the course: [slide](https://open-sci.github.io/2020-2021/slides/00.pdf)
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/01.pdf)
+   * Practical part (Project Presentation): [slide](https://open-sci.github.io/2020-2021/slides/01H.pdf)
    * Bibliography
      * Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., & Whitney, K. (2019). Open Science Isn’t Always Open to All Scientists. American Scientist, 107(2), 78. https://doi.org/10.1511/2019.107.2.78
      * Fecher, B., & Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In S. Bartling & S. Friesike (Eds.), Opening Science (pp. 17–47). Springer International Publishing. https://doi.org/10.1007/978-3-319-00026-8_2
@@ -36,8 +36,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 2. [31 March 2021] Reproducibility
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/02.pdf
-   * Practical part (Laboratory Notebook): [slide](https://open-sci.github.io/2020-2021/slides/02H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/02.pdf)
+   * Practical part (Laboratory Notebook): [slide](https://open-sci.github.io/2020-2021/slides/02H.pdf)
    * Bibliography:
      * Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a
      * Cobo, M. J., Dehdarirad, T., García-Sánchez, P., & Moral-Munoz, J. A. (2018). Quantifying the reproducibility of scientometric analyses: A case study. STI 2018 Conference Proceedings, 925–933. https://hdl.handle.net/1887/65242
@@ -52,8 +52,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 3. [1 April 2021] FAIR and Open Data
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/03.pdf
-   * Practical part (Data Management Plan): [slide](https://open-sci.github.io/2020-2021/slides/03H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/03.pdf)
+   * Practical part (Data Management Plan): [slide](https://open-sci.github.io/2020-2021/slides/03H.pdf)
    * Bibliography:
      * Belhajjame, K., B’Far, R., Cheney, J., Coppens, S., Cresswell, S., Gil, Y., Groth, P., Klyne, G., Lebo, T., McCusker, J., Miles, S., Myers, J., Sahoo, S., & Tilmes, C. (2013). PROV-DM: The PROV Data Model (L. Moreau & P. Missier, Eds.). World Wide Web Consortium. https://www.w3.org/TR/prov-dm/
      * Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), no. L119, Official Journal of the European Union (2016). http://data.europa.eu/eli/reg/2016/679/oj
@@ -70,8 +70,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 4. [8 April 2021] Open Methodology
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/04.pdf
-   * Practical part (Protocols.io): [slide](https://open-sci.github.io/2020-2021/slides/04H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/04.pdf)
+   * Practical part (Protocols.io): [slide](https://open-sci.github.io/2020-2021/slides/04H.pdf)
    * Bibliography:
      * Beg, M., Taka, J., Kluyver, T., Konovalov, A., Ragan-Kelley, M., Thiery, N. M., & Fangohr, H. (2021). Using Jupyter for Reproducible Scientific Workflows. Computing in Science & Engineering, 23(2), 36–46. https://doi.org/10.1109/MCSE.2021.3052101, freely available at https://arxiv.org/abs/2102.09562 
      * Belhajjame, K., Zhao, J., Garijo, D., Gamble, M., Hettne, K., Palma, R., Mina, E., Corcho, O., Gómez-Pérez, J. M., Bechhofer, S., Klyne, G., & Goble, C. (2015). Using a suite of ontologies for preserving workflow-centric research objects. Journal of Web Semantics, 32, 16–42. https://doi.org/10.1016/j.websem.2015.01.003
@@ -87,8 +87,8 @@ This space contains all the material related to the Open Science course of the [
 
 
 5. [14 April 2021] Open Peer Review
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/05.pdf
-   * Practical part (How to do an open peer review): [slide](https://open-sci.github.io/2020-2021/slides/05H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/05.pdf)
+   * Practical part (How to do an open peer review): [slide](https://open-sci.github.io/2020-2021/slides/05H.pdf)
    * Bibliography:
      * Economic and Social Research Council, UKRI. (2019). Data management plan: Guidance for peer reviewers. https://esrc.ukri.org/files/about-us/policies-and-standards/data-management-plan-guidance-for-per-reviewers/
      * Eve, M. P., Neylon, C., O’Donnell, D. P., Moore, S., Gadie, R., Odeniyi, V., & Parvin, S. (2020). Reading Peer Review (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108783521
@@ -106,8 +106,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 6. [15 April 2021] Open Source Software
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/06.pdf
-   * Practical part (Software must be cited): [slide](https://open-sci.github.io/2020-2021/slides/06H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/06.pdf)
+   * Practical part (Software must be cited): [slide](https://open-sci.github.io/2020-2021/slides/06H.pdf)
    * Bibliography:
      * Abramatic, J.-F., Di Cosmo, R., & Zacchiroli, S. (2018). Building the universal archive of source code. Communications of the ACM, 61(10), 29–31. https://doi.org/10.1145/3183558, available in OA at https://hal.archives-ouvertes.fr/hal-02157125
      * Alliez, P., Cosmo, R. D., Guedj, B., Girault, A., Hacid, M.-S., Legrand, A., & Rougier, N. (2020). Attributing and Referencing (Research) Software: Best Practices and Outlook From Inria. Computing in Science & Engineering, 22(1), 39–52. https://doi.org/10.1109/MCSE.2019.2949413, available in OA at https://hal.archives-ouvertes.fr/hal-02135891
@@ -125,8 +125,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 7. [21 April 2021] Open Access
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/07.pdf
-   * Practical part (How to write an article): [slide](https://open-sci.github.io/2020-2021/slides/07H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/07.pdf)
+   * Practical part (How to write an article): [slide](https://open-sci.github.io/2020-2021/slides/07H.pdf)
    * Bibliography:
      * Bahlai, C., Bartlett, L., Burgio, K., Fournier, A., Keiser, C., Poisot, T., & Whitney, K. (2019). Open Science Isn’t Always Open to All Scientists. American Scientist, 107(2), 78. https://doi.org/10.1511/2019.107.2.78
      * Bosman, J., Frantsvåg, J. E., Kramer, B., Langlais, P.-C., & Proudman, V. (2021). OA Diamond Journals Study. Part 1: Findings. Zenodo. https://doi.org/10.5281/ZENODO.4558704
@@ -148,16 +148,16 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 8. [22 April 2021] Open Metrics
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/08.pdf
-   * Practical part (Where to find open scholarly metadata): [slide](https://open-sci.github.io/2020-2021/slides/08H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/08.pdf)
+   * Practical part (Where to find open scholarly metadata): [slide](https://open-sci.github.io/2020-2021/slides/08H.pdf)
    * Bibliography:
      * Artrake Studio. (2020, June). What can DNA test really tell us about our ancestry? https://www.ted.com/talks/prosanta_chakrabarty_what_can_dna_tests_really_tell_us_about_our_ancestry
      * Baccini, A., De Nicolao, G., & Petrovich, E. (2019). Citation gaming induced by bibliometric evaluation: A country-level comparative analysis. PLOS ONE, 14(9), e0221212. https://doi.org/10.1371/journal.pone.0221212
      * Cagan, R. (2013). The San Francisco Declaration on Research Assessment. Disease Models & Mechanisms, 6(4), 869–870. https://doi.org/10.1242/dmm.012955
      * Cameron, R. D. (1997). A Universal Citation Database As a Catalyst For Reform In Scholarly Communication. First Monday, 2(4). https://doi.org/10.5210/fm.v2i4.522
      * Else, H. (2018). How Unpaywall is transforming open science. Nature, 560(7718), 290–291. https://doi.org/10.1038/d41586-018-05968-3
-     * Garfield, E. (1955). Citation Indexes for Science: A New Dimension in Documentation through Association of Ideas. Science, 122(3159), 108–111. https://doi.org/10.1126/science.122.3159.108, available in OA at http://garfield.library.upenn.edu/essays/v6p468y1983.pdf
-     * Garfield, E. (2006). The History and Meaning of the Journal Impact Factor. JAMA, 295(1), 90. https://doi.org/10.1001/jama.295.1.90, available in OA at https://garfield.library.upenn.edu/papers/jamajif2006.pdf
+     * Garfield, E. (1955). Citation Indexes for Science: A New Dimension in Documentation through Association of Ideas. Science, 122(3159), 108–111. https://doi.org/10.1126/science.122.3159.108, available in OA at http://garfield.library.upenn.edu/essays/v6p468y1983.pdf)
+     * Garfield, E. (2006). The History and Meaning of the Journal Impact Factor. JAMA, 295(1), 90. https://doi.org/10.1001/jama.295.1.90, available in OA at https://garfield.library.upenn.edu/papers/jamajif2006.pdf)
      * Haak, L. L., Fenner, M., Paglione, L., Pentz, E., & Ratner, H. (2012). ORCID: A system to uniquely identify researchers. Learned Publishing, 25(4), 259–264. https://doi.org/10.1087/20120404
      * Hicks, D., Wouters, P., Waltman, L., de Rijcke, S., & Rafols, I. (2015). Bibliometrics: The Leiden Manifesto for research metrics. Nature, 520(7548), 429–431. https://doi.org/10.1038/520429a
      * Kramer, B., & Bosman, J. (2015, June 18). The good, the efficient and the open—Changing research workflows and the need to move from Open Access to Open Science. CERN Workshop on Innovations in Scholarly Communication (OAI9), University of Geneva, Geneva, Switzerland. https://www.slideshare.net/bmkramer/the-good-the-efficient-and-the-open-oai9
@@ -172,8 +172,8 @@ This space contains all the material related to the Open Science course of the [
    <hr></hr>
 
 9. [28 April 2021] Open Infrastructures
-   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/09.pdf
-   * Practical part (Presentation of the project): [slide](https://open-sci.github.io/2020-2021/slides/09H.pdf
+   * Theoretical part: [slide](https://open-sci.github.io/2020-2021/slides/09.pdf)
+   * Practical part (Presentation of the project): [slide](https://open-sci.github.io/2020-2021/slides/09H.pdf)
    * Bibliography:
      * Alexandrov, A. V., & Hennerici, M. G. (2013). How to Prepare and Deliver a Scientific Presentation. Cerebrovascular Diseases, 35(3), 202–208. https://doi.org/10.1159/000346077
      * Allen, L., O’Connell, A., & Kiermer, V. (2019). How can we ensure visibility and diversity in research contributions? How the Contributor Role Taxonomy (CRediT) is helping the shift from authorship to contributorship. Learned Publishing, 32(1), 71–74. https://doi.org/10.1002/leap.1210
